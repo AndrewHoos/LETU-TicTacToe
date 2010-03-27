@@ -1,0 +1,313 @@
+TiCodeTic
+v7
+r0
+t291247940.625809
+cCheck dependencies
+cProcessInfoPlistFile /Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/Info.plist iCodeTic-Info.plist
+cCompileXIB /Users/andrewhoos/Documents/iCodeTic/MainWindow.xib
+cProcessPCH /var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch.gch iCodeTic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/main.o /Users/andrewhoos/Documents/iCodeTic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/iCodeTicAppDelegate.o /Users/andrewhoos/Documents/iCodeTic/Classes/iCodeTicAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/MGame.o /Users/andrewhoos/Documents/iCodeTic/Classes/MGame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VBoard.o /Users/andrewhoos/Documents/iCodeTic/Classes/VBoard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VPiece.o /Users/andrewhoos/Documents/iCodeTic/Classes/VPiece.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/CGame.o /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B6E249F00000000000000EE
+t1265509535
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h
+c000000004BABDFC3000000000000018E
+t1269555139
+s398
+i<Foundation/Foundation.h>
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m
+c000000004BABDDD600000000000000B5
+t1269554646
+s181
+i"CGame.h"
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/MGame.h
+c000000004BABDD79000000000000011F
+t1269554553
+s287
+i<Foundation/Foundation.h>
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/MGame.m
+c000000004BABDD0900000000000000B5
+t1269554441
+s181
+i"MGame.h"
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/VBoard.h
+c000000004BABDFC300000000000000EB
+t1269555139
+s235
+i<Foundation/Foundation.h>
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/VBoard.m
+c000000004BABDD8F00000000000000B8
+t1269554575
+s184
+i"VBoard.h"
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/VPiece.h
+c000000004BABDDBF00000000000000D6
+t1269554623
+s214
+i<Foundation/Foundation.h>
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/VPiece.m
+c000000004BABDD9B00000000000000B8
+t1269554587
+s184
+i"VPiece.h"
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/iCodeTicAppDelegate.h
+c000000004BABDC9E0000000000000149
+t1269554334
+s329
+i<UIKit/UIKit.h>
+
+N/Users/andrewhoos/Documents/iCodeTic/Classes/iCodeTicAppDelegate.m
+c000000004BABDC9E00000000000001E4
+t1269554334
+s484
+i"iCodeTicAppDelegate.h"
+
+N/Users/andrewhoos/Documents/iCodeTic/MainWindow.xib
+c000000004BABDC9E0000000000001F58
+t1269554334
+s8024
+
+N/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app
+t2
+s0
+
+N/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app.dSYM
+t2
+s0
+
+N/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/Info.plist
+t1269555139
+s568
+
+N/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/MainWindow.nib
+t1269555139
+s1346
+
+N/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/PkgInfo
+t1269555139
+s8
+
+N/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/iCodeTic
+t2
+s0
+
+N/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/CGame.o
+t2
+s0
+
+N/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/MGame.o
+t1269555140
+s4968
+
+N/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VBoard.o
+t1269555140
+s4892
+
+N/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VPiece.o
+t1269555140
+s4892
+
+N/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/iCodeTic.LinkFileList
+c000000004BABDFC300000000000002F1
+t1269555139
+s753
+
+N/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/iCodeTicAppDelegate.o
+t1269555140
+s17196
+
+N/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/main.o
+t1269555140
+s5952
+
+N/Users/andrewhoos/Documents/iCodeTic/iCodeTic_Prefix.pch
+c000000004BABDC9E00000000000000B9
+t1269554334
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/andrewhoos/Documents/iCodeTic/main.m
+c000000004BABDC9E0000000000000169
+t1269554334
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch.gch
+t1269555140
+s13034960
+
+NiCodeTic-Info.plist
+c000000004BABDC9E000000000000038D
+t1269554334
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291247939#291247939#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/CGame.o /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291247940.569132
+e291247940.625742
+r0
+xCompileC
+xbuild/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/CGame.o
+x/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:9:
+o/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h:14: error: expected specifier-qualifier-list before 'VBoard'
+o/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h:15: error: expected specifier-qualifier-list before 'MGame'
+o/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:14: warning: incomplete implementation of class 'CGame'
+o/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:14: warning: method definition for '-hasWon:' not found
+o/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:14: warning: method definition for '-newGame:' not found
+o/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:14: warning: method definition for '-touchesEnded:withEvent:' not found
+lSLF07#2@60"Compile /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m291247940#291247940#0(758"In file included from /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:9:/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h:14: error: expected specifier-qualifier-list before 'VBoard'/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h:15: error: expected specifier-qualifier-list before 'MGame'/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:14: warning: incomplete implementation of class 'CGame'/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:14: warning: method definition for '-hasWon:' not found/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:14: warning: method definition for '-newGame:' not found/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m:14: warning: method definition for '-touchesEnded:withEvent:' not found6(4@49"Expected specifier-qualifier-list before 'VBoard'291247940#78#114#2(7@74"In file included from /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m291247940#18446744073709551615#0#0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m291247446#9#0#9#0#0"0(13@105"Expected specifier-qualifier-list before 'VBoard' in /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h291247940#18446744073709551615#0#0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h291247939#14#0#14#0#0"0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h291247939#14#0#14#0#19"expected * before *0(4@48"Expected specifier-qualifier-list before 'MGame'291247940#192#113#2(7@74"In file included from /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m291247940#18446744073709551615#0#0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m291247446#9#0#9#0#0"0(13@104"Expected specifier-qualifier-list before 'MGame' in /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h291247940#18446744073709551615#0#0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h291247939#15#0#15#0#0"0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.h291247939#15#0#15#0#19"expected * before *0(22@42"Incomplete implementation of class 'CGame'291247940#305#109#0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m291247446#14#0#14#0#38"incomplete implementation of class '*'0(22@42"Method definition for '-hasWon:' not found291247940#414#109#0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m291247446#14#0#14#0#35"method definition for '*' not found0(22@43"Method definition for '-newGame:' not found291247940#523#110#0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m291247446#14#0#14#0#35"method definition for '*' not found0(22@58"Method definition for '-touchesEnded:withEvent:' not found291247940#633#125#0(6@52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m291247446#14#0#14#0#35"method definition for '*' not found0(0#0#52"/Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m4300885448#1867"    cd /Users/andrewhoos/Documents/iCodeTic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-generated-files.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-own-target-headers.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-all-target-headers.hmap -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-project-headers.hmap -F/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator -I/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/include -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources/i386 -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources -include /var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch -c /Users/andrewhoos/Documents/iCodeTic/Classes/CGame.m -o /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/CGame.o1#
+
+CCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/MGame.o /Users/andrewhoos/Documents/iCodeTic/Classes/MGame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291247940.486670
+e291247940.559731
+r1
+xCompileC
+xbuild/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/MGame.o
+x/Users/andrewhoos/Documents/iCodeTic/Classes/MGame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/andrewhoos/Documents/iCodeTic/Classes/MGame.m291247940#291247940#0(0"0(0#0#52"/Users/andrewhoos/Documents/iCodeTic/Classes/MGame.m4300885448#1867"    cd /Users/andrewhoos/Documents/iCodeTic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-generated-files.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-own-target-headers.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-all-target-headers.hmap -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-project-headers.hmap -F/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator -I/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/include -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources/i386 -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources -include /var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch -c /Users/andrewhoos/Documents/iCodeTic/Classes/MGame.m -o /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/MGame.o0#
+
+CCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VBoard.o /Users/andrewhoos/Documents/iCodeTic/Classes/VBoard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291247940.487704
+e291247940.570807
+r1
+xCompileC
+xbuild/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VBoard.o
+x/Users/andrewhoos/Documents/iCodeTic/Classes/VBoard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/andrewhoos/Documents/iCodeTic/Classes/VBoard.m291247940#291247940#0(0"0(0#0#53"/Users/andrewhoos/Documents/iCodeTic/Classes/VBoard.m4300885448#1869"    cd /Users/andrewhoos/Documents/iCodeTic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-generated-files.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-own-target-headers.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-all-target-headers.hmap -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-project-headers.hmap -F/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator -I/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/include -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources/i386 -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources -include /var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch -c /Users/andrewhoos/Documents/iCodeTic/Classes/VBoard.m -o /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VBoard.o0#
+
+CCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VPiece.o /Users/andrewhoos/Documents/iCodeTic/Classes/VPiece.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291247940.559897
+e291247940.618865
+r1
+xCompileC
+xbuild/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VPiece.o
+x/Users/andrewhoos/Documents/iCodeTic/Classes/VPiece.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/andrewhoos/Documents/iCodeTic/Classes/VPiece.m291247940#291247940#0(0"0(0#0#53"/Users/andrewhoos/Documents/iCodeTic/Classes/VPiece.m4300885448#1869"    cd /Users/andrewhoos/Documents/iCodeTic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-generated-files.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-own-target-headers.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-all-target-headers.hmap -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-project-headers.hmap -F/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator -I/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/include -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources/i386 -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources -include /var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch -c /Users/andrewhoos/Documents/iCodeTic/Classes/VPiece.m -o /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/VPiece.o0#
+
+CCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/iCodeTicAppDelegate.o /Users/andrewhoos/Documents/iCodeTic/Classes/iCodeTicAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291247940.485607
+e291247940.576174
+r1
+xCompileC
+xbuild/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/iCodeTicAppDelegate.o
+x/Users/andrewhoos/Documents/iCodeTic/Classes/iCodeTicAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/andrewhoos/Documents/iCodeTic/Classes/iCodeTicAppDelegate.m291247940#291247940#0(0"0(0#0#66"/Users/andrewhoos/Documents/iCodeTic/Classes/iCodeTicAppDelegate.m4300885448#1895"    cd /Users/andrewhoos/Documents/iCodeTic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-generated-files.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-own-target-headers.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-all-target-headers.hmap -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-project-headers.hmap -F/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator -I/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/include -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources/i386 -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources -include /var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch -c /Users/andrewhoos/Documents/iCodeTic/Classes/iCodeTicAppDelegate.m -o /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/iCodeTicAppDelegate.o0#
+
+CCompileC build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/main.o /Users/andrewhoos/Documents/iCodeTic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291247940.484370
+e291247940.568991
+r1
+xCompileC
+xbuild/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/main.o
+x/Users/andrewhoos/Documents/iCodeTic/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/andrewhoos/Documents/iCodeTic/main.m291247940#291247940#0(0"0(0#0#43"/Users/andrewhoos/Documents/iCodeTic/main.m4300885448#1857"    cd /Users/andrewhoos/Documents/iCodeTic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-generated-files.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-own-target-headers.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-all-target-headers.hmap -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-project-headers.hmap -F/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator -I/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/include -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources/i386 -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources -include /var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch -c /Users/andrewhoos/Documents/iCodeTic/main.m -o /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/andrewhoos/Documents/iCodeTic/MainWindow.xib
+s291247939.433662
+e291247939.745721
+r1
+xCompileXIB
+x/Users/andrewhoos/Documents/iCodeTic/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291247939#291247939#0(0"0(0#0#51"/Users/andrewhoos/Documents/iCodeTic/MainWindow.xib4300885448#477"    cd /Users/andrewhoos/Documents/iCodeTic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/MainWindow.nib /Users/andrewhoos/Documents/iCodeTic/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app.dSYM /Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/iCodeTic
+r0
+
+CLd /Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/iCodeTic normal i386
+r0
+
+CProcessInfoPlistFile /Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/Info.plist iCodeTic-Info.plist
+s291247939.412823
+e291247939.433552
+r1
+xProcessInfoPlistFile
+x/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/Info.plist
+xiCodeTic-Info.plist
+lSLF07#2@27"Process iCodeTic-Info.plist291247939#291247939#0(0"0(0#0#56"/Users/andrewhoos/Documents/iCodeTic/iCodeTic-Info.plist4300885448#476"    cd /Users/andrewhoos/Documents/iCodeTic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iCodeTic-Info.plist -genpkginfo /Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app/Info.plist0#
+
+CProcessPCH /var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch.gch iCodeTic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291247939.745908
+e291247940.484253
+r1
+xProcessPCH
+x/var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch.gch
+xiCodeTic_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iCodeTic_Prefix.pch291247939#291247940#0(0"0(0#0#56"/Users/andrewhoos/Documents/iCodeTic/iCodeTic_Prefix.pch4300885448#1750"    cd /Users/andrewhoos/Documents/iCodeTic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-generated-files.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-own-target-headers.hmap -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-all-target-headers.hmap -iquote /Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/iCodeTic-project-headers.hmap -F/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator -I/Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/include -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources/i386 -I/Users/andrewhoos/Documents/iCodeTic/build/iCodeTic.build/Debug-iphonesimulator/iCodeTic.build/DerivedSources -c /Users/andrewhoos/Documents/iCodeTic/iCodeTic_Prefix.pch -o /var/folders/-I/-Ikp+PXCHRKMQgyxRn4x1k+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/iCodeTic_Prefix-fybywccyjapgfgejbihecjnlqtpr/iCodeTic_Prefix.pch.gch0#
+
+CTouch /Users/andrewhoos/Documents/iCodeTic/build/Debug-iphonesimulator/iCodeTic.app
+r0
+
