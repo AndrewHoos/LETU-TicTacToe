@@ -12,6 +12,7 @@
 @interface VBoard : UIImageView
 {
 	//piecs
+	//new branch Chris
 }
 
 //init in IB

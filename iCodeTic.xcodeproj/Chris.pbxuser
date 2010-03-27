@@ -1,0 +1,94 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* iCodeTic */ = {
+		activeExec = 0;
+		executables = (
+			83EB4E78115EC9CD005D79F5 /* iCodeTic */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 83EB4E78115EC9CD005D79F5 /* iCodeTic */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iCodeTic */;
+		codeSenseManager = 83EB4E89115EC9F0005D79F5 /* Code sense */;
+		executables = (
+			83EB4E78115EC9CD005D79F5 /* iCodeTic */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 291424717;
+			PBXWorkspaceStateSaveDate = 291424717;
+		};
+		sourceControlManager = 83EB4E88115EC9F0005D79F5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	83EB4E78115EC9CD005D79F5 /* iCodeTic */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iCodeTic;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	83EB4E88115EC9F0005D79F5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	83EB4E89115EC9F0005D79F5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B4A36F11115C150F00AAAB14 /* VBoard.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 644}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 235}";
+		};
+	};
+	B4A36F12115C150F00AAAB14 /* VBoard.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 644}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 184}";
+		};
+	};
+	B4A36F17115C155600AAAB14 /* CGame.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 644}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 466}";
+		};
+	};
+	B4A36F18115C155600AAAB14 /* CGame.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 644}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 181}";
+		};
+	};
+}
